@@ -56,7 +56,7 @@ Dataset yang digunakan berjudul **Top-Largest-Universities.csv**, yang berisi in
 - DASHBOARD POWER BI 1.png
   ![image](https://github.com/hanniehae2/PROJECT-DASHBOARD-PBI/blob/master/DASHBOARD%20POWER%20BI%201.png)
 - DASHBOARD POWER BI 2.png
-
+  ![image](https://github.com/hanniehae2/PROJECT-DASHBOARD-PBI/blob/master/DASHBOARD%20POWER%20BI%202.png)
 ---
 
 ## 📂 Struktur File
