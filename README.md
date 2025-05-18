@@ -53,15 +53,14 @@ Dataset yang digunakan berjudul **Top-Largest-Universities.csv**, yang berisi in
 ---
 
 ## 🖼️ Preview Dashboard
-![Dashboard Preview](dashboard.png)  
-*(Silakan ganti nama file jika berbeda)*
+DASHBOARD POWER BI 1.png
+DASHBOARD POWER BI 2.png
 
 ---
 
 ## 📂 Struktur File
 - `Dashboard_Universitas_Terbesar.pbix` – File Power BI utama
 - `Top-Largest-Universities.csv` – Dataset mentah
-- `dashboard.png` – Cuplikan dashboard (opsional)
 - `README.md` – Dokumen deskripsi proyek ini
 
 ---
