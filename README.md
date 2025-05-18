@@ -53,8 +53,8 @@ Dataset yang digunakan berjudul **Top-Largest-Universities.csv**, yang berisi in
 ---
 
 ## 🖼️ Preview Dashboard
-DASHBOARD POWER BI 1.png
-DASHBOARD POWER BI 2.png
+- DASHBOARD POWER BI 1.png
+- DASHBOARD POWER BI 2.png
 
 ---
 
